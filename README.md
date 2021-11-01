@@ -1,2 +1,2 @@
 # VSCode_link_Sample
-WEB版VSCodeとSalesforceを綱意味で見るサンプル
+WEB版VSCodeとSalesforceをつないでみるサンプル
